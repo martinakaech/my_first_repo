@@ -2,3 +2,5 @@
 First training
 
 Martina Kaech
+
+Data Analyst
